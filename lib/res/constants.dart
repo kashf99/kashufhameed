@@ -1,0 +1,13 @@
+import 'package:flutter/material.dart';
+const primaryColor = Colors.white;
+const secondaryColor = Color(0xFF242430);
+const darkColor = Color(0xFF191923);
+const bodyTextColor = Color(0xFF8B8B8D);
+const bgColor = Color(0xFF000515);
+const defaultPadding = 20.0;
+const Color lightblue=  Color.fromARGB(255, 4, 121, 128);
+const Color darkblue=Color.fromARGB(255, 5, 30, 71) ;
+const Color lightgreenshadow=Color.fromARGB(255, 24, 246, 227) ;
+const Color darkblueshadow= Color.fromARGB(255, 114, 151, 245);
+const Color brightblue=Color.fromARGB(255, 16, 88, 214) ;
+const Color brightgreen= Color.fromARGB(255, 14, 203, 190);
